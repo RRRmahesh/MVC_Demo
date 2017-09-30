@@ -1,0 +1,10 @@
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/bin/Debug/netcoreapp2.0/MVC_Demo.deps.json
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/bin/Debug/netcoreapp2.0/MVC_Demo.runtimeconfig.json
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/bin/Debug/netcoreapp2.0/MVC_Demo.runtimeconfig.dev.json
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/bin/Debug/netcoreapp2.0/MVC_Demo.dll
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/bin/Debug/netcoreapp2.0/MVC_Demo.pdb
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/obj/Debug/netcoreapp2.0/MVC_Demo.csproj.CoreCompileInputs.cache
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/obj/Debug/netcoreapp2.0/MVC_Demo.AssemblyInfoInputs.cache
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/obj/Debug/netcoreapp2.0/MVC_Demo.AssemblyInfo.cs
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/obj/Debug/netcoreapp2.0/MVC_Demo.dll
+/home/nandkumar/Documents/ASP_Projects/MVC_Demo/obj/Debug/netcoreapp2.0/MVC_Demo.pdb
